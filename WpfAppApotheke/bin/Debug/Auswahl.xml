@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMedikament xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Medikament>
+    <Rezeptpflichtig>false</Rezeptpflichtig>
+    <Name>Sinupret</Name>
+    <Preis>12.3</Preis>
+    <Zuzahlung>0</Zuzahlung>
+  </Medikament>
+  <Medikament>
+    <Rezeptpflichtig>false</Rezeptpflichtig>
+    <Name>Bronchipret</Name>
+    <Preis>4.3</Preis>
+    <Zuzahlung>0</Zuzahlung>
+  </Medikament>
+  <Medikament>
+    <Rezeptpflichtig>false</Rezeptpflichtig>
+    <Name>Grippostat</Name>
+    <Preis>120.3</Preis>
+    <Zuzahlung>0</Zuzahlung>
+  </Medikament>
+  <Medikament>
+    <Rezeptpflichtig>true</Rezeptpflichtig>
+    <Name>Sucontral</Name>
+    <Preis>43.0</Preis>
+    <Zuzahlung>0</Zuzahlung>
+  </Medikament>
+  <Medikament>
+    <Rezeptpflichtig>true</Rezeptpflichtig>
+    <Name>Prostagutt</Name>
+    <Preis>110</Preis>
+    <Zuzahlung>0</Zuzahlung>
+  </Medikament>
+  <Medikament>
+    <Rezeptpflichtig>true</Rezeptpflichtig>
+    <Name>Sanostol</Name>
+    <Preis>11.3</Preis>
+    <Zuzahlung>0</Zuzahlung>
+  </Medikament>
+</ArrayOfMedikament>
